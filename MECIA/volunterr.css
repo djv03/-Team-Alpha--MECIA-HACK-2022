@@ -1,0 +1,75 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333333; */
+  }
+  #logo{
+    float: left;
+  }
+ 
+  
+ ul li {
+    /* float: left; */
+    display: flex;
+    font-size: larger;
+    align-items: center;
+    justify-self: center;
+    margin-left: 10px;
+  }
+  ul h2{
+    /* align-items: center; */
+/* justify-content: center; */
+float: left;
+  }
+  
+  ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 23px;
+    text-decoration: none;
+   
+  }
+  ul li a{
+    display: flex;
+    
+  }
+  li a:hover {
+    font-size: 20px;
+  }
+  .volunteer_main{
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: space-around;
+    align-items: center;
+  }
+  .col-sm-4{
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 23px;
+    padding: 13px;
+  }
+  .locationfinder input{
+    margin: 2rem;
+    width: 30rem;
+    padding: 10px;
+
+  }
+  .volunteerpage{
+    margin-left: 40%;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+  }
+  #locationbtn{
+    width: 60px;
+    height: 30px;
+    width: rem;
+    background-color: rgb(255, 157, 0);
+    font-weight: bolder;
+    border: 2px solid black;
+    border-radius: 8px;
+  }
