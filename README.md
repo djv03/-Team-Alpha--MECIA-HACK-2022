@@ -1,1 +1,2 @@
-# Team Alpha- MECIA HACK 2022
+A project that we build in 
+ Heckathon that organized by our college.
